@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for **gsmaren.uk**: 
-
----
-
 # GSMaren UK
 
 Welcome to **GSMaren UK**, your ultimate destination for comprehensive mobile phone specifications, reviews, and comparisons. This repository serves as the foundation for the GSMaren UK platform, focusing on delivering accurate, up-to-date information for mobile enthusiasts and tech-savvy users.
