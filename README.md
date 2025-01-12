@@ -62,5 +62,5 @@ This project is licensed under the [MIT License](LICENSE).
 For questions, suggestions, or feedback, please contact us:
 
 - **Email**: support@gsmaren.uk
-- **Website**: [gsmaren.uk](https://gsmaren.uk)
+- **Website**: [gsmaren uk](https://gsmaren.uk)
 
