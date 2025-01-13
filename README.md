@@ -24,7 +24,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gsmaren-uk.git
+   git clone https://github.com/gsmarenuk/gsmaren-uk.git
    cd gsmaren-uk
    ```
 
